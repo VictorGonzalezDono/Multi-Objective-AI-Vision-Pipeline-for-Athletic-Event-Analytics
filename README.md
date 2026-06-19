@@ -1,5 +1,9 @@
 # Multi-Objective AI Vision Pipeline for Athletic Event Analytics
 
+<p align="center">
+  <img src="visualizations/multi_objective_dashboard.jpg" width="100%" alt="AI Telemetry Dashboard">
+</p>
+
 ## 1. Executive Summary & Business Impact
 This project delivers an automated, multi-task computer vision pipeline designed to convert unstructured visual assets from mass-participation sporting events into structured, high-value business intelligence. 
 
